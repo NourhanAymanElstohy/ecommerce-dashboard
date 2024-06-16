@@ -14,12 +14,12 @@ This is a web-based e-commerce dashboard built with Laravel and Filament. It pro
 
 ## Getting Started
 
-To run the PagePulse project locally, follow these steps:
+To run the project locally, follow these steps:
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/NourhanAymanElstohy/page-pulse
+    git clone https://github.com/NourhanAymanElstohy/ecommerce-dashboard
     ```
 
 2. Install the project dependencies using Composer:
